@@ -1,0 +1,11 @@
+name: datascience
+dependencies:
+  - python
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - requests
+  - lxml
+  - beautifulsoup4
+  - xlrd
