@@ -61,3 +61,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# datafiles
+*.sqlite3
+*.h5
