@@ -1,8 +1,6 @@
 DataScience
 ===========
 
-
-## WIP
 This repository is splitted from [pysessions](https://github.com/lfapython/pysessions)
 
 see [python](https://github.com/lfapython/pybasics) for python basics.
@@ -15,5 +13,6 @@ see [python](https://github.com/lfapython/pybasics) for python basics.
     $ git clone https://github.com/lfapython/datascience.git
     $ cd datascience
     $ conda env create
-    $ source activate datascience
+    $ source activate datascience [ Linux/Mac ]
+    	OR $ activate datascience [ Windows ]
     $ jupyter-notebook
