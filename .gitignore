@@ -65,3 +65,5 @@ target/
 # datafiles
 *.sqlite3
 *.h5
+*.jpg
+*.png
