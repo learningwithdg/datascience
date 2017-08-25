@@ -67,3 +67,4 @@ target/
 *.h5
 *.jpg
 *.png
+Data/*.json
